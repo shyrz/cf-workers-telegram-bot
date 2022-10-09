@@ -1,8 +1,8 @@
 name = "cf-workers-telegram-bot"
 main = "dist/worker.mjs"
 
-account_id = ""
+account_id = "2893bc9b528e49206631a19abf5e0bd7"
 workers_dev = true
-compatibility_date = "2022-02-16"
+compatibility_date = "2022-10-09"
 
 build.command = "npm install && npm run build"
